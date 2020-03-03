@@ -4,11 +4,11 @@ body {
 main {
   margin-left: 400px;
 }
-image1 {
+.left {
   float: left;
 }
-.box2 {
-  border: 2px solid black;
-  float: left;
-  background-color: white;
+.right {
+}
+.container {
+  float: right;
 }
