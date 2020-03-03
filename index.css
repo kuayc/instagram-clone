@@ -9,6 +9,8 @@ main {
 }
 .right {
 }
-.container {
-  float: right;
+.cont1 {
+  float: left;
+  border: 1px black solid;
+  margin-left: 20px;
 }
