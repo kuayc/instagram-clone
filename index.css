@@ -26,3 +26,36 @@ h3 {
 p {
   justify-content: center;
 }
+.footer {
+  display: flex;
+  position: relative;
+  top: 100px;
+  float: left;
+  
+}
+.footer li a {
+  text-decoration: none;
+  list-style: none;
+  color: #3e4c78;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  }
+  
+  .question {
+      display: inline-block;
+      font-size: 15px;
+      padding: 30px;
+      
+  }
+  
+  .footer li {
+      list-style-type: none;
+      padding: 10px;
+      font-size: 13px;
+      font-weight:
+      
+  }
+  .copyright {
+      float: right;
+      font-size: 12.5px;
+      bottom: 10px;
